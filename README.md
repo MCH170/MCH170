@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @MCH170
-- 👀 I’m interested in ... Computers
-- 🌱 I’m currently learning ... Electrical and Computer Engineering
+Studying Computer Engineering🖥️ at the University of Cyprus🇨🇾.
 
 <!---
 MCH170/MCH170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
