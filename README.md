@@ -1,4 +1,4 @@
-Studying Computer Engineering🖥️ at the University of Cyprus🇨🇾.
+Studying Computer Engineering🖥️ at the University of Cyprus.
 
 <!---
 MCH170/MCH170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
